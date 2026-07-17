@@ -30,5 +30,9 @@
     Settings = {
       AutoConnect = true;
     };
+
+    # DriverQuirks = {
+    #   PowerSaveDisable = "mt7925e";
+    # };
   };
 }
